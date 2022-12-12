@@ -1,0 +1,52 @@
+.overviewBox {
+    margin: 10px;
+}
+
+.c2 {
+    padding-top: 10px;
+}
+
+p>a {
+    text-decoration: none;
+}
+
+.hovering:hover {
+    color: #0969DA;
+}
+
+.box {
+    border: 1px solid black;
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 8px;
+    vertical-align: top;
+}
+
+.box>a {
+    text-decoration: none;
+    color: #0969DA;
+}
+
+.public {
+    color: rgba(0, 0, 0, 0.856);
+    border: 1px solid gray;
+    background-color: snow;
+    display: inline;
+    border-radius: 10px;
+    float: right;
+    font-weight: normal;
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+}
+
+.smallFont {
+    color: gray;
+    font-size: 12px;
+}
+
+.margin {
+    margin-top: 2px
+}

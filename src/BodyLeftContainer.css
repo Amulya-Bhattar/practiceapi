@@ -1,0 +1,44 @@
+.left-container {
+    width: 350px;
+}
+.name-login, .login{
+    color: black;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.login {
+    color: rgb(128, 128, 128);
+    padding-bottom: 7px;
+}
+
+.follow{
+    border: 1px solid gray;
+    display: inline-block;
+    width: 270px;
+    text-align: center;
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: lightgray;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+}
+.followers,.location{
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: gray;
+}
+
+ b{
+    color: black;
+}
+img {
+    border-radius: 50%;
+    width: 300px;
+    position: relative;
+    top: -20px;
+    margin-left: 25px;
+}

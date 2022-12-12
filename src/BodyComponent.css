@@ -1,0 +1,29 @@
+.body-container {
+    display: flex;
+    border-top: 1px solid black;
+}
+
+.upper-container {
+    display: flex;
+    height: 65px; 
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;  
+    justify-content: center;     
+}
+
+.upper-container a {
+    padding: 15px;
+    text-decoration: none;
+    color: black; 
+    padding-bottom: 10px;
+    border-bottom: 3px solid transparent;
+}
+
+a.active {
+    padding-bottom: 10px;
+    border-bottom: 3px solid green;
+}
+
+
+

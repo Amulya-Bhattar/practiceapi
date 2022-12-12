@@ -1,0 +1,11 @@
+.outerPart {
+    border: 1px solid gray;
+    height: 150px;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.group1 {
+    font-size: 13px;
+}

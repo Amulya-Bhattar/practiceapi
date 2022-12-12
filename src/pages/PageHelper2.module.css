@@ -1,0 +1,41 @@
+.link {
+    text-decoration: none;
+    color: #0969da;
+    font-weight: bold;
+}
+
+.author {
+    color: grey;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.forker {
+    color: gray;
+    text-decoration: none;
+}
+.titleColor {
+    color: grey;
+    font-size: 13px;
+}
+
+.flex {
+    display: flex;
+}
+
+.date {
+    color: grey;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+.public {
+    color: rgba(0, 0, 0, 0.856);
+    border: 1px solid gray;
+    background-color: snow;
+    display: inline;
+    border-radius: 10px;
+    font-weight: normal;
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+    margin-left: 5px;
+}

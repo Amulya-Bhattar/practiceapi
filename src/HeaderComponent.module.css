@@ -1,0 +1,53 @@
+.container>div {
+    display: flex;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.758);
+    color: whitesmoke;
+    height: 50px;
+    align-items: center;
+}
+
+.innerContainer>div {
+    padding: 25px;
+}
+
+.div1 {
+    position: relative;
+}
+
+  .container2 {
+    display: none; 
+}  
+
+.div1:hover,
+.div2:hover,
+.div3:hover,
+.div4:hover {
+    color: grey;
+}
+
+.div4 {
+    margin-right: 500px;
+}
+
+/* .div1:hover .container-2 {
+    display: block; 
+    position: absolute;
+    color: black;
+    border: 1px solid gray;
+    border-radius: 5px;
+    
+} */
+/* .div3:hover .container-2{
+    display: block;
+    position: absolute;
+    color: black;
+    width: 200px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+} */
+
+li {
+    list-style: none;
+}

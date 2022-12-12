@@ -1,0 +1,9 @@
+.noPage {
+    border: 1px solid gray;
+    position: relative;
+    top: 50px;
+    padding: 60px;
+    border-radius: 7px;
+    text-align: center;
+    font-weight: bold;
+}

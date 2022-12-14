@@ -12,7 +12,8 @@ export default function HeaderComponent() {
                     <div className={styles.div2}>Solutions</div>
                     <div className={styles.div3}>Open Source</div>
                     <div className={styles.div4}>Pricing</div>
-                    <Link to = {{pathname:"https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fkalyansai99%3Ftab%3Dprojects"}} id="123"><div>Sign in</div></Link>
+                    <a href="https://github.com/login" ><div className={styles.signin}>Sign in</div></a>
+                    <a href="https://github.com/signup" ><div className={styles.signup}>Sign up</div></a>
                 </div>
             </div>
         </React.Fragment >

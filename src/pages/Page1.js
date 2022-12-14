@@ -6,7 +6,7 @@ import ContributionsPage from "./ContributionsPage";
 export default function Page1() {
     return (
         <React.Fragment>
-            <div className="c2">Popular repositories</div>
+            <div className={styles.c2}>Popular repositories</div>
             <div className={styles.overviewBox}>
                 <PageHelper1 link="kalyansai99.github.io" />
                 <PageHelper1 link="react-todo" tag1="toDO App in React" tag2="JavaScript"/>

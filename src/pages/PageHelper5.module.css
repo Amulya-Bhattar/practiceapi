@@ -1,0 +1,30 @@
+.link {
+    text-decoration: none;
+    color: #0969da;
+    font-weight: bold;
+}
+
+.author {
+    color: grey;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.forker {
+    color: gray;
+    text-decoration: none;
+}
+.titleColor {
+    color: grey;
+    font-size: 13px;
+}
+
+.flex {
+    display: flex;
+}
+
+.date {
+    color: grey;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
